@@ -40,6 +40,7 @@ img{
 }
 
 /* 4) Tabeli kujundus (päis eri toonis, paksem kiri) */
+table{
   grid-column:1 / -1;              /* mõlemad tabelid võtavad kogu laiuse */
   width:100%;
   border-collapse:collapse;
